@@ -1,7 +1,7 @@
 # Climate_Impact_Financial_Predictor
 # 🌍 Climate Impact Financial Predictor
 
-![ClimateXpert](https://your-image-url.com/banner.png)
+
 
 📌 **Smart India Hackathon 2025** | 🚀 *Resilience & Financial Risk Management*
 
