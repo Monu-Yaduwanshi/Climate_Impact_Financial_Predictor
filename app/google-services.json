@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "340896937348",
+    "project_id": "climateexpert-b927e",
+    "storage_bucket": "climateexpert-b927e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340896937348:android:ce468b225c20b573d6d9d1",
+        "android_client_info": {
+          "package_name": "com.example.climatexpert"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_grWK0HT7-2eOk5hTY5l5z0-CVnYZ4nE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
