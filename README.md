@@ -19,6 +19,78 @@
 </p>
 📌 **Smart India Hackathon 2025** | 🚀 *Resilience & Financial Risk Management*
 
+
+# 📸 ClimateXpert App Screenshots
+
+---
+
+## 🌤 Splash & Onboarding Screens
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c5d02f28-8e6a-462a-aedf-9fe764497d10" width="250"/>
+  <img src="https://github.com/user-attachments/assets/53b91d9e-e381-49f7-ac5c-659feef8294e" width="250"/>
+  <img src="https://github.com/user-attachments/assets/d8915267-f694-434d-ae17-a9712f1f6238" width="250"/>
+</p>
+
+---
+
+## 🏠 Home Dashboard
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5b5491d7-6c09-4548-9ee2-0a92deb21d00" width="250"/>
+  <img src="https://github.com/user-attachments/assets/0f8cfe6b-5171-4389-8160-6f4611b90f03" width="250"/>
+  <img src="https://github.com/user-attachments/assets/b11fa0bd-316e-417a-a9db-56d53ce76a30" width="250"/>
+</p>
+
+---
+
+## 🌦 Live Weather Details
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a5f1d50b-0e5b-4b67-a279-77e096e74861" width="250"/>
+  <img src="https://github.com/user-attachments/assets/985233b4-7a7b-48fd-975b-adf6e673326f" width="250"/>
+  <img src="https://github.com/user-attachments/assets/278b3613-94f6-4e12-a8c8-189ae4562376" width="250"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/24e2037b-0c66-46bf-a97c-15c1ff8ceed9" width="250"/>
+</p>
+
+---
+
+## 🤖 AI Climate Insights & Predictions
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b24df2d2-b613-49c9-b7ae-5b33b6fe18a2" width="250"/>
+  <img src="https://github.com/user-attachments/assets/849cb68b-d8a3-4495-9243-13b79686af8b" width="250"/>
+  <img src="https://github.com/user-attachments/assets/8eb72113-77c9-4bee-9d19-b707fbc0559f" width="250"/>
+</p>
+
+---
+
+## 📊 Reports & Data Visualization
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/53701245-d445-4ef1-aa46-35be720b40b7" width="250"/>
+  <img src="https://github.com/user-attachments/assets/d8a8bf51-517a-44fc-a5db-6ea57858490d" width="250"/>
+  <img src="https://github.com/user-attachments/assets/3715cb43-502c-46b6-aef6-58cc412f4452" width="250"/>
+</p>
+
+---
+
+## ⚙ Settings & Profile
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2eeb6392-16e8-47ec-8895-6c8276577531" width="250"/>
+  <img src="https://github.com/user-attachments/assets/bd38d9e2-968c-41eb-96c3-7ee47b4ee70f" width="250"/>
+</p>
+
+---
+
+<p align="center">
+  🌍 Built with Kotlin • Firebase • REST APIs • AI Integration • MVVM
+</p>
+
 ## 📖 Overview
 
 The **Climate Impact Financial Predictor** is an AI-powered mobile application that helps businesses anticipate financial risks due to climate events. Using **TensorFlow Lite** and **Jetpack Compose**, the app provides:
