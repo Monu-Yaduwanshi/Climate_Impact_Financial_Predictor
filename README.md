@@ -1,8 +1,9 @@
 # Climate_Impact_Financial_Predictor
 # 🌍 Climate Impact Financial Predictor
 
+
 <p align="center">
-  <img width="500" height="500" alt="logoStatic" src="https://github.com/user-attachments/assets/f4c61552-2cbf-4835-a050-68e8ca8885c8" alt="Crop Bazaar Logo"/>
+  <img width="500" height="500" alt="logoStatic" src="Screenshot_2025-03-09-19-21-13-311_com miui gallery" src="https://github.com/user-attachments/assets/46188512-356a-4797-8acf-ee59b00804fd" alt="Crop Bazaar Logo"/>
 </p>
 <p align="center">
   <b>Business saver from natural calamities for India 🇮🇳</b>
