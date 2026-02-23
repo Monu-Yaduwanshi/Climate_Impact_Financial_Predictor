@@ -1,8 +1,22 @@
 # Climate_Impact_Financial_Predictor
 # 🌍 Climate Impact Financial Predictor
 
+<p align="center">
+  <img width="500" height="500" alt="logoStatic" src="<img width="826" height="800" alt="Screenshot_2025-03-09-19-21-13-311_com miui gallery" src="https://github.com/user-attachments/assets/fc203e37-dc3f-455b-a183-fcd72a249988" />
+" alt="ClimateXpert Logo"/>
+</p>
+<p align="center">
+  <b>Business saver from natural calamities for India 🇮🇳</b>
+</p
 
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-Android-green" />
+  <img src="https://img.shields.io/badge/Language-Kotlin-blue" />
+  <img src="https://img.shields.io/badge/UI-Jetpack%20Compose-orange" />
+  <img src="https://img.shields.io/badge/Backend-Firebase-yellow" />
+  <img src="https://img.shields.io/badge/Cloud-Cloudinary-purple" />
+  <img src="https://img.shields.io/badge/Architecture-MVVM-red" />
+</p>
 📌 **Smart India Hackathon 2025** | 🚀 *Resilience & Financial Risk Management*
 
 ## 📖 Overview
