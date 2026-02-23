@@ -2,13 +2,11 @@
 # 🌍 Climate Impact Financial Predictor
 
 <p align="center">
-  <img width="500" height="500" alt="logoStatic" src="<img width="826" height="800" alt="Screenshot_2025-03-09-19-21-13-311_com miui gallery" src="https://github.com/user-attachments/assets/fc203e37-dc3f-455b-a183-fcd72a249988" />
-" alt="ClimateXpert Logo"/>
+  <img width="500" height="500" alt="logoStatic" src="https://github.com/user-attachments/assets/f4c61552-2cbf-4835-a050-68e8ca8885c8" alt="Crop Bazaar Logo"/>
 </p>
 <p align="center">
   <b>Business saver from natural calamities for India 🇮🇳</b>
-</p
-
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Android-green" />
   <img src="https://img.shields.io/badge/Language-Kotlin-blue" />
