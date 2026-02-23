@@ -3,8 +3,9 @@
 
 
 <p align="center">
-  <img width="500" height="500" alt="logoStatic" src="Screenshot_2025-03-09-19-21-13-311_com miui gallery" src="https://github.com/user-attachments/assets/46188512-356a-4797-8acf-ee59b00804fd" alt="Crop Bazaar Logo"/>
+  <img width="500" height="500" alt="logoStatic" src="https://github.com/user-attachments/assets/e269d399-fb8a-424b-9913-15b044f791f1" alt="Crop Bazaar Logo"/>
 </p>
+
 <p align="center">
   <b>Business saver from natural calamities for India 🇮🇳</b>
 </p>
