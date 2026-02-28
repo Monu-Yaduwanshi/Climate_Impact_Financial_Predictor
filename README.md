@@ -1,10 +1,8 @@
-# Climate_Impact_Financial_Predictor
+
 # 🌍 Climate Impact Financial Predictor
 
 
-<p align="center">
-  <img width="500" height="500" alt="logoStatic" src="https://github.com/user-attachments/assets/e269d399-fb8a-424b-9913-15b044f791f1" alt="Crop Bazaar Logo"/>
-</p>
+
 
 <p align="center">
   <b>Business saver from natural calamities for India 🇮🇳</b>
@@ -19,6 +17,9 @@
 </p>
 📌 **Smart India Hackathon 2025** | 🚀 *Resilience & Financial Risk Management*
 
+<p align="center">
+  <img width="500" height="500" alt="logoStatic" src="https://github.com/user-attachments/assets/e269d399-fb8a-424b-9913-15b044f791f1" alt="Crop Bazaar Logo"/>
+</p>
 
 # 📸 ClimateXpert App Screenshots
 
